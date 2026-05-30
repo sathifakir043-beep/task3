@@ -1,2 +1,3 @@
 this is the feature branch
-basic workflow check - dev branchg
+basic workflow check - dev branch
+quality and test phase
